@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://rladiesspatial-ld.netlify.com/"
 languageCode = "en-us"
-title = "Agency"
+title = "R-Spatial-Ladies"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
